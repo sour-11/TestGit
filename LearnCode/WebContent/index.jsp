@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		Hello Ritesh and NK
+		Hello This is my first application on Remote server
 </body>
 </html>
